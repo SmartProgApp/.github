@@ -18,13 +18,13 @@
 
 ### ✨ Key Features
 - **Smart Voice Announcements:** Hear the time without looking at your screen.
-- **Customizable Intervals:** Set reminders for every 15, 30, or 60 minutes.
+- **Customizable Intervals:** Set reminders for every 15, 30, or 60 minutes. "This feature will Coming Soon"
 - **Silence Mode:** Intelligent scheduling to keep things quiet during sleep or meetings.
 - **Multi-Language Support:** Fully localized for a global audience.
 
 <div align="center">
   
-*🚀 **Version 3.0** is launching soon on Google Play!*
+*🚀 **Version 3.04** is launching soon on Google Play!*
 
 <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="Get it on Google Play">
 
